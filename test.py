@@ -1,5 +1,5 @@
 import streamlit as st
-from uji_web import MainApp
+from uji_web import Main_Menu
 
 
 Judul = st.title("Hello World!", anchor='left')
